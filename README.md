@@ -1,1 +1,1 @@
-# countdown-timer
+# Basic countdown timer web site.
